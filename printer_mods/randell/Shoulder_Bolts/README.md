@@ -35,7 +35,7 @@ M3x5x6 Insert   | x4 (optional)
 
 If you want to spend the extra money, print the 6mm stls, use 4mm length inserts and get/use 4 more of the MSB5-LC21.5-FC5 bolts. These bolts will sit flush on both sides and they'll have a little more depth engagement on the thread side of the idler.
 
-<br/>
+
 **Note:** In the US, at the time I ordered, the pricing for these should bolts dropped signifcanly with a quantity discount. For example, MSB5-40 were quoted at $3.40 each and $14.96 for 4. But, quantity 10 dropped the price each down to $1.40, so you could get 10 of them for $14.00; cheaper than you can get 4.
 
 ## Front Idlers/Tensioners
