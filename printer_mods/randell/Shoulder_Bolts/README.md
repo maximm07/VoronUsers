@@ -5,15 +5,11 @@ The Misumi shoulder bolts are 5mm shoulder and a 3mm thread. These parts use the
 
 Note: Quantity is the newly added amounts and should be added to whatever quantity (thread inserts) that is already specified.
 
-<br/>
-
 ## XY Tensioners:
 Item | Qty
 -- | --
 MSB5-35        | x2
 M3x5x4 Insert  | x2
-
-<br/>
 
 ## XY Joints:
 Item | Qty
@@ -21,15 +17,11 @@ Item | Qty
 MSB5-40        | x4
 M3x5x4 Insert  | x4
 
-<br/>
-
 ## Motor Plates:
 Item | Qty
 -- | --
 MSB5-LC21.5-FC5 | x4
 M3x5x4 Insert   | x4
-
-<br/>
 
 ## Z Idlers:
 There are 2 variations of these. One uses the M3x5x4 standard lenght inserts, and the other uses the M3x5x6 length inserts. The 6mm variant would have the bolt heads sit flush on the outside, while the standard 4mm would have the bolts inset a little. I expect no "perfomance" benefit to either.
@@ -41,9 +33,9 @@ MSB5-LC21.5-FC5 | x4 (optional)
 M3x5x4 Insert   | x4
 M3x5x6 Insert   | x4 (optional)
 
-<br/>
 If you want to spend the extra money, print the 6mm stls, use 4mm length inserts and get/use 4 more of the MSB5-LC21.5-FC5 bolts. These bolts will sit flush on both sides and they'll have a little more depth engagement on the thread side of the idler.
 
+<br/>
 **Note:** In the US, at the time I ordered, the pricing for these should bolts dropped signifcanly with a quantity discount. For example, MSB5-40 were quoted at $3.40 each and $14.96 for 4. But, quantity 10 dropped the price each down to $1.40, so you could get 10 of them for $14.00; cheaper than you can get 4.
 
 ## Front Idlers/Tensioners
